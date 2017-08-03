@@ -13,3 +13,7 @@ Known issues:
 -Was unable to find a matching format of the linked in icon. It has rounded corners while stackoverflow and github icons do not.
 
 -The captions on the portfolio page are just that, captions. They should be converted to links at some point.
+
+-Placing the reset.css file above my style.css file makes some but not all of the css changes go away and I'm not sure why.
+
+-On the index page the first paragraph does not line up with the top of the picture
